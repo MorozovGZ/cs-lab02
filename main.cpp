@@ -6,7 +6,11 @@ int main()
 {
    cout << "Enter A and B: ";
 
+<<<<<<< HEAD
 double a, b,max,min;
+=======
+int a, b,max,min;
+>>>>>>> 11350c6bd883d4d9b7baacc237c25b7d7d263672
 
 
 
